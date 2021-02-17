@@ -8,4 +8,4 @@ description: Childhood game of tag with a twist
 commands:
   tag:
     description: Tag!
-    usage: /tag <start/stop>
+    usage: /tag <start/end>
