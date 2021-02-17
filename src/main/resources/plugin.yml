@@ -1,0 +1,11 @@
+name: Tag
+version: ${project.version}
+main: ghostboi.tag.Tag
+api-version: 1.16
+prefix: Tag
+authors: [ Ghost_Boi ]
+description: Childhood game of tag with a twist
+commands:
+  tag:
+    description: Tag!
+    usage: /tag <start/stop>
